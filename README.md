@@ -1,17 +1,17 @@
 # Better Half Bites
-> A double-blind decision tool for couples who suffer from decision fatigue when picking a restaurant[cite: 3].
+> A double-blind decision tool for couples who suffer from decision fatigue when picking a restaurant.
 
-**Author:** Christian Gonzalez · **Course:** CMP 464/343 Product 1 · **Last updated:** 11-4-2026[cite: 3]
+**Author:** Christian Gonzalez · **Course:** CMP 464/343 Product 1 · **Last updated:** 11-4-2026
 
 ---
 
 ## 1. About Me (the User)
 
-I am a computer science student building a tool to solve a recurring relationship issue: the frustrating back-and-forth negotiation of choosing a date night restaurant with my girlfriend[cite: 3].
+I am a computer science student building a tool to solve a recurring relationship issue: the frustrating back-and-forth negotiation of choosing a date night restaurant with my girlfriend
 
 **The last 3 times this happened:**
-1. Trying to pick a place for dinner and both repeating "I don't care, you pick" until we gave up and ordered standard takeout[cite: 3]. 
-2. Spending 20 minutes texting Yelp links back and forth only to realize neither of us actually wanted sushi, but we were just trying to be polite[cite: 3]. 
+1. Trying to pick a place for dinner and both repeating "I don't care, you pick" until we gave up and ordered standard takeout. 
+2. Spending 20 minutes texting Yelp links back and forth only to realize neither of us actually wanted sushi, but we were just trying to be polite. 
 
 **What it costs me:**
 - ⏱️ Time: 20–30 wasted minutes per occurrence
@@ -31,7 +31,7 @@ I am a computer science student building a tool to solve a recurring relationshi
 2. Why? Because neither of us wants the pressure of making the final choice and risking a bad meal. 
 3. Why? Because we are afraid of picking something the other person won't actually enjoy
 4. Why? Because we don't know what the other is truly craving without explicitly negotiating. 
-5. Why? Because human communication about preferences in relationships is often polite rather than honest. 
+5. Why? Because communication about preferences in relationships are often polite rather than honest. 
 
 **Problem statement:**
 > **When** it is time to go out for dinner, 
